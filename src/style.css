@@ -1,0 +1,50 @@
+.error-message {
+    color: red;
+}
+.text-color{
+    color: #154094;
+}
+
+#flightResetButton,.button-style:hover{
+    background-color: white;
+    color:#154094 ;
+    border: 1px solid #154094;
+}
+.bg-color{
+    background-color: #f3eded;
+}
+.primary-color{
+    background-color: #e6dfdf ;
+}
+.secondary-color{
+    color:#F3950D;
+}
+.button-style,.form-button #flightResetButton:hover{
+    border: 1px solid #154094;
+    background-color: #154094;
+    color: white;
+}
+.view-button{
+    color: white;
+    background-color:#F3950D;
+}
+.view-button:hover{
+    background-color: white;
+    color:#F3950D;
+}
+.edit-button{
+    color: white;
+    background-color:#154094 ;
+}
+.edit-button:hover{
+    background-color: white;
+    color:#154094 ;
+}
+.delete-button{
+    color: white;
+    background-color: #CD1818;
+}
+.delete-button:hover{
+    background-color: white;
+    color: #CD1818;
+}
